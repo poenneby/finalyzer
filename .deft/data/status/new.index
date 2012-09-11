@@ -1,6 +1,6 @@
-setup-workspace
 view-highest-transaction
 view-lowest-transaction
 view-number-of-transactions-imported
 view-transactions-by-type
 label-transactions
+import-bnp-statement
